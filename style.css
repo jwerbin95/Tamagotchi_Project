@@ -1,0 +1,10 @@
+.imageContainer {
+	text-align: center;
+}
+.giraffe {
+	width: 20%;
+	height: 20%;
+}
+.playerUI, .statsContainer {
+	text-align: center;
+}
