@@ -1,7 +1,10 @@
 .imageContainer {
 	text-align: center;
+	width: 100%;
+	border: solid;
 }
 .giraffe {
+	position: relative;
 	width: 20%;
 	height: 20%;
 }
